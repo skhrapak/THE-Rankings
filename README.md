@@ -15,3 +15,13 @@ Our rankings cover the three main areas of university activity: research, impact
 ●  More details on THE Rankings: https://www.timeshighereducation.com/world-university-rankings
 
 ## Data 
+
+This file contains row entries of universities whereby each row is composed of a single university together with its descriptive information such as its global rank, the country it is located in, student population, various other metrics etc. Years covered are from 2016 to 2025. The datafile can be found at
+
+https://www.kaggle.com/datasets/raymondtoo/the-world-university-rankings-2016-2024
+
+## Content
+
+This repository contains data description, wrangled and cleaned dataset, Python scripts used to analyze tha data, and report in the Tableau. The repoprt can also be found online at
+
+https://public.tableau.com/app/profile/sergey.khrapak/viz/THERankings/THERating
